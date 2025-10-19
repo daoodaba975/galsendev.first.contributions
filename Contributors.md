@@ -46,3 +46,4 @@
 - [Maodo Ndiaye](https://github.com/49maodo)
 - [Souleymane DIALLO](https://github.com/sdley)
 - [Ishara Harshana](https://github.com/Ishara-Vithanage)
+- [Mouhamadou Moustapha Diagne](https://github.com/Bakemono-san)
