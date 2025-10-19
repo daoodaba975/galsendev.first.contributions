@@ -45,3 +45,4 @@
 - [Moustapha LY](https://github.com/adler96)
 - [Maodo Ndiaye](https://github.com/49maodo)
 - [Souleymane DIALLO](https://github.com/sdley)
+- [Mouhamadou Moustapha Diagne](https://github.com/Bakemono-san)
