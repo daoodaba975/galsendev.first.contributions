@@ -47,4 +47,5 @@
 - [Souleymane DIALLO](https://github.com/sdley)
 - [Ishara Harshana](https://github.com/Ishara-Vithanage)
 - [Mouhamadou Moustapha Diagne](https://github.com/Bakemono-san)
+- [El Hadji Dieng](https://github.com/eldieng)
 - [Issakha CISSE](https://github.com/cisse410)
