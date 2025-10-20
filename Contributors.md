@@ -50,3 +50,4 @@
 - [Ahmadou Waly Ndiaye](https://github.com/sir-kain)
 - [El Hadji Dieng](https://github.com/eldieng)
 - [Issakha CISSE](https://github.com/cisse410)
+- [Abdallah Sow](https://github.com/grandlay-e)
