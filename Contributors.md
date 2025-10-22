@@ -51,3 +51,4 @@
 - [El Hadji Dieng](https://github.com/eldieng)
 - [Issakha CISSE](https://github.com/cisse410)
 - [Abdallah Sow](https://github.com/grandlay-e)
+- [Mouhamed El Bachir LO](https://github.com/meblo98)
