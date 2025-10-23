@@ -53,7 +53,7 @@ où "l'url que vous venez de copier" (sans les guillemets) est l'url du réperto
 Par exemple :
 
 ```
-git clone https://github.com/votre-nom-d-utilisateur/galsendev-first-contributions.git
+git clone https://github.com/votre-nom-d-utilisateur/first.contributions.git
 ```
 
 où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes en train de copier le contenu du répertoire `first-contributions` depuis GitHub sur votre ordinateur.
@@ -63,7 +63,7 @@ où `votre-nom-d-utilisateur` est votre nom d'utilisateur GitHub. Ici vous êtes
 Déplacez-vous dans le répertoire du projet nouvellement cloné (si vous n'y êtes pas encore) :
 
 ```
-cd galsendev-first-contributions
+cd first.contributions
 ```
 
 Maintenant créez une branche avec le commande `git checkout` :
