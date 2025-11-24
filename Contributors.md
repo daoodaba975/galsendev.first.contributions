@@ -53,4 +53,5 @@
 - [Abdallah Sow](https://github.com/grandlay-e)
 - [Mame Diarra Laye DJITE](https://github.com/MameDiarraLayeDjite)
 - [Mouhamed El Bachir LO](https://github.com/meblo98)
+- [Ibrahima Fadiaba](https://github.com/papsoking)
 - [Papa Ibrahima Diop](https://github.com/NoSeaBass)
